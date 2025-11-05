@@ -11,3 +11,4 @@ ranchercharts/elasticsearch-elasticsearch:7.3.0
 ranchercharts/beats-filebeat:7.3.0
 ranchercharts/kibana-kibana:7.3.0
 registry:2
+apache/skywalking-oap-server:8.1.0-es7
