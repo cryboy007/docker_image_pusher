@@ -1,14 +1,6 @@
-nginx
+
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-openjdk:21-jdk
-apache/apisix-dashboard
-mongo
-fauria/vsftpd
-ranchercharts/elasticsearch-elasticsearch:7.3.0
-ranchercharts/beats-filebeat:7.3.0
-ranchercharts/kibana-kibana:7.3.0
-registry:2
 apache/skywalking-oap-server:8.1.0-es7
