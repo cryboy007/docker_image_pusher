@@ -6,4 +6,4 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 apache/skywalking-oap-server:8.1.0-es7
 nacos/nacos-server:1.1.4
 apache/skywalking-ui:8.9.1
-skywalking-oap-server:8.9.1
+apache/skywalking-oap-server:8.9.1
